@@ -1,0 +1,59 @@
+#city {
+  display: block;
+  margin: 0 auto;
+}
+#search-btn {
+  margin-left: 630px;
+
+  padding: 5px 10px;
+  background-color: #9f98d4;
+  font-weight: bold;
+  border-radius: 20px;
+}
+h1 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.card {
+  display: block;
+  margin: 15px auto;
+  padding: 30px 30px 30px 30px;
+}
+.cardBody {
+  text-align: center;
+}
+.icon {
+  font-size: 38px;
+}
+.today-temp {
+  font-size: 38px;
+  position: relative;
+  left: 50px;
+}
+.container {
+  width: 150%;
+  padding-right: 25px;
+  padding-left: 25px;
+  margin: 0 auto;
+  display: block;
+  border-style: solid;
+  border-radius: 20px;
+}
+.currentCityBtn {
+  background: #9f98d4;
+  padding: 5px 10px;
+  background-color: #9f98d4;
+  font-weight: bold;
+  border-radius: 20px;
+  margin-top: 10px;
+  position: relative;
+  left: 750px;
+  top: -45px;
+}
+.dataList {
+  list-style-type: none;
+  font-size: 12px;
+  position: relative;
+  left: 60px;
+  top: -45px;
+}
